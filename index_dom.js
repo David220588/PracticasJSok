@@ -1,22 +1,22 @@
-import countdown from "./practicasJS/modulos/cuenta_regresiva.js";
-import hamburguerMenu from "./practicasJs/modulos/menu_burguer.js";
-import { digitalClock , alarma} from "./practicasJS/modulos/reloj.js";
-import { moveBall } from "./practicasJS/modulos/teclado.js";
-import scrollTopButton from"./practicasJS/modulos/boton_scroll.js"
-import darkMode from "./practicasJS/modulos/tema_oscuro.js";
-import responsiveMedia from "./practicasJS/modulos/objeto_responsive.js";
-import responsiveTester from "./practicasJS/modulos/prueba.js";
-import userDeviceInfo from "./practicasJS/modulos/deteccion_dispositivos.js";
-import networkStatus from "./practicasJS/modulos/deteccion_red.js";
-import webCam from "./practicasJS/modulos/deteccion_webcam.js";
-import getGeolocation from "./practicasJS/modulos/geolocalizacion.js";
-import searchFilters from "./practicasJS/modulos/filtro_busqueda.js";
-import draw from "./practicasJS/modulos/sorteo.js";
-import slider from "./practicasJS/modulos/carrousel.js";
-import scrollSpy from "./practicasJS/modulos/scroll_espia.js";
-import smartVideo from "./practicasJS/modulos/video.js";
-import contactFormValidations from "./practicasJS/modulos/validaciones_formulario.js";
-import speechReader from "./practicasJS/modulos/narrador.js";
+import countdown from "./modulos/cuenta_regresiva.js";
+import hamburguerMenu from "./modulos/menu_burguer.js";
+import { digitalClock , alarma} from "./modulos/reloj.js";
+import { moveBall } from "./modulos/teclado.js";
+import scrollTopButton from"./modulos/boton_scroll.js"
+import darkMode from "./modulos/tema_oscuro.js";
+import responsiveMedia from "./modulos/objeto_responsive.js";
+import responsiveTester from "./modulos/prueba.js";
+import userDeviceInfo from "./modulos/deteccion_dispositivos.js";
+import networkStatus from "./modulos/deteccion_red.js";
+import webCam from "./modulos/deteccion_webcam.js";
+import getGeolocation from "./modulos/geolocalizacion.js";
+import searchFilters from "./modulos/filtro_busqueda.js";
+import draw from "./modulos/sorteo.js";
+import slider from "./modulos/carrousel.js";
+import scrollSpy from "./modulos/scroll_espia.js";
+import smartVideo from "./modulos/video.js";
+import contactFormValidations from "./modulos/validaciones_formulario.js";
+import speechReader from "./modulos/narrador.js";
 
 
 
